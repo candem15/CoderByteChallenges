@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <StartupObject>CoderByteChallenges.FirstReverse</StartupObject>
+    <StartupObject>CoderByteChallenges.MinWindowSubstring</StartupObject>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
